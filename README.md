@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-07 11:26:53
- * @LastEditTime: 2020-11-07 11:34:38
+ * @LastEditTime: 2020-11-07 11:37:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /download_3D_dataset/README.md
@@ -14,12 +14,17 @@
 * **注意修改下载路径**
 
 ## kitti
+
+下载不了！！！
+
 ```
 sh download_kitti.sh
 ```
 
 
 ## semantic_kitti
+
+
 ```
 sh download_semantic_kitti.sh
 ```

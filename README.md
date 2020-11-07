@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-07 11:26:53
- * @LastEditTime: 2020-11-07 12:18:06
+ * @LastEditTime: 2020-11-07 12:56:53
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /download_3D_dataset/README.md
@@ -60,6 +60,14 @@ sh download_indoor3d_sem_seg_hdf5_data.sh
 ```
 ...
 ```
+
+
+## ModelNet40(分类  目标检测？)
+
+```
+wget --no-check-certificate https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
+```
+https://www.yuque.com/huangzhongqing/hre6tf/drr1pw#7DcoH
 
 ## NuScenes（暂无）
 

@@ -1,8 +1,8 @@
 ###
- # @Author: your name
+ # @Author:HCQ
  # @Date: 2020-11-07 11:35:44
- # @LastEditTime: 2020-11-07 11:35:56
- # @LastEditors: your name
+ # @LastEditTime: 2020-11-07 13:03:33
+ # @LastEditors: Please set LastEditors
  # @Description: In User Settings Edit
  # @FilePath: /download_3D_dataset/download_kitti.sh
 ### 

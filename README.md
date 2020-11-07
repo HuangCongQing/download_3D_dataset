@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-07 11:26:53
- * @LastEditTime: 2020-11-07 12:56:53
+ * @LastEditTime: 2020-11-07 13:04:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /download_3D_dataset/README.md
@@ -73,4 +73,12 @@ https://www.yuque.com/huangzhongqing/hre6tf/drr1pw#7DcoH
 
 ```
 
+```
+
+
+## ShapeNetPart（部件分割）
+
+
+```
+sh download_ShapeNetPart.sh
 ```

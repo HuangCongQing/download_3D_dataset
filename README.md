@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-07 11:26:53
- * @LastEditTime: 2020-11-07 12:03:34
+ * @LastEditTime: 2020-11-07 12:10:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /download_3D_dataset/README.md
@@ -48,6 +48,9 @@ https://github.com/QingyongHu/RandLA-Net
 https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1
 
 ###   测评  HDF5 for indoor 3d semantic segmentation (around 1.6GB)
+
+shapenet？？
+
 ```
 sh download_indoor3d_sem_seg_hdf5_data.sh
 ```

@@ -1,4 +1,4 @@
-BASE_DIR=${1-~/data/semantic3d/original_data}
+BASE_DIR=${1-~/data/semantic3d/original_data} # 注意修改路径
 
 # Training data
 wget -c -N http://semantic3d.net/data/point-clouds/training1/bildstein_station1_xyz_intensity_rgb.7z -P $BASE_DIR

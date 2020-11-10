@@ -43,14 +43,16 @@ wget -c -N http://semantic3d.net/data/point-clouds/testing2/sg27_station10_rgb_i
 wget -c -N http://semantic3d.net/data/point-clouds/testing2/sg28_Station2_rgb_intensity-reduced.txt.7z -P $BASE_DIR
 
 
-
+# 遍历解压7z压缩包
 for entry in "$BASE_DIR"/*
 do
-  7z x "$entry" -o$(dirname "$entry") -y
+  7za x "$entry" -o$(dirname "$entry") -y
 done
 
+# 重命名
 mv $BASE_DIR/station1_xyz_intensity_rgb.txt $BASE_DIR/neugasse_station1_xyz_intensity_rgb.txt
 
+# 遍历删除7z压缩包
 for entry in "$BASE_DIR"/*.7z
 do
   rm "$entry"

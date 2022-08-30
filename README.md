@@ -25,6 +25,9 @@ sh download_kitti.sh
 * https://github.com/andrewjong/PT-Lightning-for-OpenPAI/blob/30037f1b1f/download_kitti.sh
 * https://github.com/quadjr/PredNet/tree/6e8fa589a234043096e69695e2f03ef555e30ae5/scripts
 
+## waymo
+https://github.com/RalphMao/Waymo-Dataset-Tool
+
 ## semantic_kitti（暂无）
 
 

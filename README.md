@@ -9,6 +9,8 @@
 # download_3D_dataset
 三维点云数据集下载sh脚本（目标检测，语义分割,   ...）
 
+点云学习仓库推荐：https://github.com/HuangCongQing/3D-Point-Clouds
+
 @[双愚](https://github.com/HuangCongQing)
 
 * **注意修改下载路径**

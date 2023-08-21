@@ -28,6 +28,11 @@ sh download_kitti.sh
 * https://github.com/quadjr/PredNet/tree/6e8fa589a234043096e69695e2f03ef555e30ae5/scripts
 
 ## waymo
+
+**waymo部分数据（2个G），供学习使用：  https://cloud.189.cn/web/share?code=NB3eqmr6vIVv（访问码：l6xa）**
+![](https://cdn.nlark.com/yuque/0/2023/png/232596/1692608723348-db584820-bb51-4f2b-983b-82ef8fb5478c.png)
+
+
 https://github.com/RalphMao/Waymo-Dataset-Tool
 
 ## semantic_kitti（暂无）

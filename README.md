@@ -1,3 +1,4 @@
+
 <!--
  * @Author: your name
  * @Date: 2020-11-07 11:26:53
@@ -15,10 +16,9 @@
 
 * **注意修改下载路径**
 
-## kitti
+## kitti(目标检测)
 
 下载不了！！！
-
 
 ```
 sh download_kitti.sh
@@ -27,7 +27,9 @@ sh download_kitti.sh
 * https://github.com/andrewjong/PT-Lightning-for-OpenPAI/blob/30037f1b1f/download_kitti.sh
 * https://github.com/quadjr/PredNet/tree/6e8fa589a234043096e69695e2f03ef555e30ae5/scripts
 
-## waymo
+* 网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)
+
+## Waymo(目标检测)
 
 **waymo部分数据（2个G），供学习使用：  https://cloud.189.cn/web/share?code=NB3eqmr6vIVv（访问码：l6xa）**
 ![](https://cdn.nlark.com/yuque/0/2023/png/232596/1692608723348-db584820-bb51-4f2b-983b-82ef8fb5478c.png)
@@ -35,8 +37,17 @@ sh download_kitti.sh
 
 https://github.com/RalphMao/Waymo-Dataset-Tool
 
-## semantic_kitti（暂无）
 
+## NuScenes(目标检测)
+下载脚本暂无
+
+```
+
+```
+
+* 网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)
+
+## semantic_kitti（暂无）(语义分割)
 
 ```
 sh download_semantic_kitti.sh
@@ -55,7 +66,8 @@ https://github.com/QingyongHu/RandLA-Net
 
 ## S3DIS
 
-https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1
+
+* 下载链接：https://docs.google.com/forms/d/e/1FAIpQLScDimvNMCGhy_rmBA2gHfDu3naktRm6A8BPwAWWDv-Uhm6Shw/viewform?c=0&w=1
 
 ###   1测评  HDF5 for indoor 3d semantic segmentation (around 1.6GB)
 
@@ -78,12 +90,6 @@ sh download_indoor3d_sem_seg_hdf5_data.sh
 wget --no-check-certificate https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
 ```
 https://www.yuque.com/huangzhongqing/hre6tf/drr1pw#7DcoH
-
-## NuScenes（暂无）
-
-```
-
-```
 
 
 ## ShapeNetPart（部件分割）

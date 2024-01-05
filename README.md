@@ -8,9 +8,9 @@
  * @FilePath: /download_3D_dataset/README.md
 -->
 # download_3D_dataset
-三维点云数据集下载sh脚本（目标检测，语义分割,   ...）
+三维点云数据集**下载sh脚本和网盘链接**（目标检测，语义分割,   ...）
 
-点云学习仓库推荐：https://github.com/HuangCongQing/3D-Point-Clouds
+推荐仓库：点云深度学习（目标检测和语义分割）：https://github.com/HuangCongQing/3D-Point-Clouds
 
 @[双愚](https://github.com/HuangCongQing)
 
@@ -27,7 +27,7 @@ sh download_kitti.sh
 * https://github.com/andrewjong/PT-Lightning-for-OpenPAI/blob/30037f1b1f/download_kitti.sh
 * https://github.com/quadjr/PredNet/tree/6e8fa589a234043096e69695e2f03ef555e30ae5/scripts
 
-* 网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)
+* **网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)**
 
 ## Waymo(目标检测)
 
@@ -45,7 +45,7 @@ https://github.com/RalphMao/Waymo-Dataset-Tool
 
 ```
 
-* 网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)
+* **网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)**
 
 ## semantic_kitti（暂无）(语义分割)
 

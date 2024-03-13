@@ -14,6 +14,10 @@
 
 @[双愚](https://github.com/HuangCongQing)
 
+
+免费下载网站推荐：
+* OpenDataLab： https://opendatalab.com/
+
 * **注意修改下载路径**
 
 ## kitti(目标检测)

@@ -19,7 +19,7 @@
 * OpenDataLab： https://opendatalab.com/
 
 
-* **下载脚本注意修改保存文件路径**
+**下载脚本注意修改保存文件路径**
 
 ## kitti(目标检测)
 

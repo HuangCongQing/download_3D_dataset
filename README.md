@@ -16,7 +16,7 @@
 
 
 免费下载网站推荐：
-* OpenDataLab： https://opendatalab.com/
+* OpenDataLab： [https://opendatalab.com/](https://opendatalab.com/?mediaTypes=3&sort=all)
 
 
 **下载脚本注意修改保存文件路径**
@@ -52,7 +52,7 @@ https://github.com/RalphMao/Waymo-Dataset-Tool
 
 * **网盘链接：[数据集下载链接【提取码：data】](https://pan.baidu.com/share/init?surl=MS_A2-YRvFj1LsL85RuQiQ)**
 
-## semantic_kitti（暂无）(语义分割)
+## semantic_kitti(语义分割)
 
 ```
 sh download_semantic_kitti.sh

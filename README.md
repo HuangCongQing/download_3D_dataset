@@ -36,7 +36,9 @@ sh download_kitti.sh
 
 ## Waymo(目标检测)
 
-**waymo部分数据（2个G），供学习使用：  https://cloud.189.cn/web/share?code=NB3eqmr6vIVv（访问码：l6xa）**
+* 完整版数据集下载请前往官网下载 https://waymo.com/open/download/
+
+* **waymo部分数据（2个G），供学习使用：  https://cloud.189.cn/web/share?code=NB3eqmr6vIVv（访问码：l6xa）**
 ![](https://cdn.nlark.com/yuque/0/2023/png/232596/1692608723348-db584820-bb51-4f2b-983b-82ef8fb5478c.png)
 
 
